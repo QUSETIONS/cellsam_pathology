@@ -1,0 +1,27 @@
+requests
+dask[distributed]
+dask-image
+matplotlib
+torchvision
+pyyaml
+scipy
+git+https://github.com/facebookresearch/segment-anything.git
+scikit-image
+scikit-learn
+torch
+numpy
+tqdm
+pytest
+# Docs
+sphinx
+myst-nb  # Text-based jupyter notebooks & MyST
+pydata-sphinx-theme
+sphinx-gallery  # For example gallery
+sphinx-togglebutton  # For collapsible admonitions
+napari
+pyqt6
+numpydoc
+intersphinx_registry
+# Remote data access
+zarr>2
+s3fs
